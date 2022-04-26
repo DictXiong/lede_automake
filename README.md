@@ -1,3 +1,9 @@
+## Fork 之后改了啥？
+
+使用 GitHub Actions 自动编译。根据自己的需求进行配置，并将 mt7621 超频到了 1100 MHz。
+
+---
+
 # 欢迎来到 Lean 的 Openwrt 源码仓库
 
 如何编译自己需要的 OpenWrt 固件 [English](./README_EN.md)
