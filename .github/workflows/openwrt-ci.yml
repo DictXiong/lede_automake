@@ -51,7 +51,8 @@ jobs:
           ./scripts/feeds install -a
 
       - name: Generate configuration file
-        run: make defconfig
+#        run: make defconfig
+        run: cp config.tr609 .config
 
       - name: Make download
         run: |
